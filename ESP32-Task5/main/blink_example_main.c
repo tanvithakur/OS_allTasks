@@ -5,7 +5,9 @@
 #include "esp_wifi.h"
 #include "nvs_flash.h"
 
+//Enter your SSID here
 #define STA_SSID ""
+//Enter your Password here
 #define STA_PASSWORD ""
 
 void scann(){
